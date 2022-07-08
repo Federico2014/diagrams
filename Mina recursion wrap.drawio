@@ -1,355 +1,355 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T05:34:29.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NGjLxtQXa2rIhGE0lOtX" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T06:11:11.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NMftVepilW9J2FmwCvI7" version="17.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2360" dy="2467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1442" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-4" value="Proof.Base.Step.t&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-4" value="Proof.Base.Step.t&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="13" y="352" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-5" value="Step.Statement" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-5" value="Step.Statement" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="213" y="182" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.785;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="W2paDP_m3vyoCNHAQNc3-5" parent="1" source="W2paDP_m3vyoCNHAQNc3-4">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.785;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-4" target="W2paDP_m3vyoCNHAQNc3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="233" y="292" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-9" value="index: int" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-9" value="index: int" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="213.79" y="332" width="138.43" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" target="W2paDP_m3vyoCNHAQNc3-9" parent="1" source="W2paDP_m3vyoCNHAQNc3-4">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" source="W2paDP_m3vyoCNHAQNc3-4" target="W2paDP_m3vyoCNHAQNc3-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="53.00000000000006" y="373.49" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-11" value="pre_evals" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-11" value="pre_evals" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="208" y="462" width="150" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.926;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="W2paDP_m3vyoCNHAQNc3-11" parent="1" source="W2paDP_m3vyoCNHAQNc3-4">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.926;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-4" target="W2paDP_m3vyoCNHAQNc3-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="173" y="436" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-14" value="proof: Tick.Proof" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-14" value="proof: Tick.Proof" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="208" y="612" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" target="W2paDP_m3vyoCNHAQNc3-14" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-16" value="pass_through" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-16" value="pass_through" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="398" y="10" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" target="W2paDP_m3vyoCNHAQNc3-16" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="343" y="182" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-18" value="Proof_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-18" value="Proof_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="391" y="260" width="139" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" target="W2paDP_m3vyoCNHAQNc3-18" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-20" value="app_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-20" value="app_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="675.5" y="70" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-20" source="W2paDP_m3vyoCNHAQNc3-32">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="196" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-22" value="dlog_plonk_index" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-22" value="dlog_plonk_index" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="665" y="114" width="121.25" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-22" source="W2paDP_m3vyoCNHAQNc3-32">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-24" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-24" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="665" y="154" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-24" source="W2paDP_m3vyoCNHAQNc3-32">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="547" y="156.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-26" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-26" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="663" y="194" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-26" source="W2paDP_m3vyoCNHAQNc3-32">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="547" y="156.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;unfinalized_proofs&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(wrap_proof)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;unfinalized_proofs&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(wrap_proof)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="563.12" y="300" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.957;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-28" source="W2paDP_m3vyoCNHAQNc3-18">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.957;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-18" target="W2paDP_m3vyoCNHAQNc3-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="422" y="335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sponge_digest_before_evaluations&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sponge_digest_before_evaluations&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="762.5" y="285" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-30" source="W2paDP_m3vyoCNHAQNc3-28">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-28" target="W2paDP_m3vyoCNHAQNc3-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="719" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;me_only" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" collapsed="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;me_only" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="510" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-37" value="should_finalize" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-37" value="should_finalize" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="770" y="230" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" target="W2paDP_m3vyoCNHAQNc3-37" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-39" value="deferred_values" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-39" value="deferred_values" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="765" y="340" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-40" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="W2paDP_m3vyoCNHAQNc3-39" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-40" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="709.9999999999999" y="332" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ft_eval1：为Tock.Field结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ft_eval1：为Tock.Field结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="390" y="420" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-41" source="W2paDP_m3vyoCNHAQNc3-11">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-11" target="W2paDP_m3vyoCNHAQNc3-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="511.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;evals：为2元结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;evals：为2元结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="403" y="476" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-43">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-45" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;messages&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;(w, z, t 承诺)&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-45" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;messages&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;(w, z, t 承诺)&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="390" y="560" width="160" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-45">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-47" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Openings&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-47" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Openings&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="391" y="660" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-47">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;proof：Bulletproof结构。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;proof：Bulletproof结构。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="580" y="605" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-49" source="W2paDP_m3vyoCNHAQNc3-47">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-47" target="W2paDP_m3vyoCNHAQNc3-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="607" y="715" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-51" value="evals：2元结构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-51" value="evals：2元结构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="580" y="670" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-51" source="W2paDP_m3vyoCNHAQNc3-47">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-47" target="W2paDP_m3vyoCNHAQNc3-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="607" y="715" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-53" value="ft_eval1：为Fp类型。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-53" value="ft_eval1：为Fp类型。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="569.38" y="750" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-53" source="W2paDP_m3vyoCNHAQNc3-47">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-47" target="W2paDP_m3vyoCNHAQNc3-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="607" y="715" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-56" value="wrap&amp;nbsp;" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-56" value="wrap&amp;nbsp;" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="990" y="318" width="280" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-57" value="Proof.Base.wrap.t&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-57" value="Proof.Base.wrap.t&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1275" y="354" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-58" value="Step.Statement" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-58" value="Step.Statement" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1475" y="184" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-59" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.785;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-58">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-59" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.785;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1495" y="294" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-60" value="index: int" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-60" value="index: int" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1475.79" y="334" width="138.43" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-61" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-60">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-61" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1315" y="375.49" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-62" value="pre_evals" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-62" value="pre_evals" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="464" width="150" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-63" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.926;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-62">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-63" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;exitX=0.926;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-57" target="W2paDP_m3vyoCNHAQNc3-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1435" y="438" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-64" value="proof: Tick.Proof" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-64" value="proof: Tick.Proof" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="614" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-65" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-64">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-65" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1402" y="422" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-66" value="pass_through" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-66" value="pass_through" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1630" y="90" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-67" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-66">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-67" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1605" y="184" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-68" value="Proof_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-68" value="Proof_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1653" y="262" width="139" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-69" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-68">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-69" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;" parent="1" target="W2paDP_m3vyoCNHAQNc3-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1612" y="207" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-70" value="app_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-70" value="app_state" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1812" y="-28" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-71" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-70">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-71" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1760" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-72" value="dlog_plonk_index" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-72" value="dlog_plonk_index" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1823.25" y="38" width="121.25" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-73" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-72">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-73" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1760" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-74" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-74" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1822" y="90" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-75" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-66" target="W2paDP_m3vyoCNHAQNc3-74">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-75" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-66" target="W2paDP_m3vyoCNHAQNc3-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1809" y="158.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-76" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-76" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1831.38" y="144" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-77" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-66" target="W2paDP_m3vyoCNHAQNc3-76">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-77" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-66" target="W2paDP_m3vyoCNHAQNc3-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1809" y="158.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-78" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;deferred_values&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(step_proof)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-78" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;deferred_values&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(step_proof)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1831.3799999999999" y="354" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.957;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-78">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.957;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1684" y="337" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-80" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sponge_digest_before_evaluations&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-80" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sponge_digest_before_evaluations&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1831.38" y="300" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-80">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1981" y="332" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-82" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;me_only" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" collapsed="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-82" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;me_only" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1834.5" y="232" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-82">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-68" target="W2paDP_m3vyoCNHAQNc3-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1684" y="337" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-131">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-131" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-88" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ft_eval1：为Tick.Field结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-88" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ft_eval1：为Tick.Field结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1657" y="422" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-62" target="W2paDP_m3vyoCNHAQNc3-88">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-62" target="W2paDP_m3vyoCNHAQNc3-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1662" y="513.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-90" value="&lt;font style=&quot;font-size: 14px&quot;&gt;evals：为2元结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-90" value="&lt;font style=&quot;font-size: 14px&quot;&gt;evals：为2元结构&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1665" y="478" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-90">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1622" y="482" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-92" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;messages&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;(w, z, t 承诺)&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-92" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;messages&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;(w, z, t 承诺)&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1652" y="562" width="160" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-92">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-92" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1612" y="622" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-94" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Openings&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-94" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Openings&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1653" y="662" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-95" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-94">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-95" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1612" y="632" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-96" value="&lt;font style=&quot;font-size: 14px&quot;&gt;proof：Bulletproof结构。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-96" value="&lt;font style=&quot;font-size: 14px&quot;&gt;proof：Bulletproof结构。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1842" y="607" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-97" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-96">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-97" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1869" y="717" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-98" value="evals：2元结构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-98" value="evals：2元结构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1842" y="672" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-99" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-98">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-99" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1869" y="717" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-100" value="ft_eval1：为Fp类型。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-100" value="ft_eval1：为Fp类型。" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="1831.38" y="752" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-101" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-100">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-101" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-94" target="W2paDP_m3vyoCNHAQNc3-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1869" y="717" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-102" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-11" target="W2paDP_m3vyoCNHAQNc3-105">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-102" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-11" target="W2paDP_m3vyoCNHAQNc3-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="490" as="sourcePoint" />
             <mxPoint x="760" y="440" as="targetPoint" />
@@ -360,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-103" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-28" target="W2paDP_m3vyoCNHAQNc3-105">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-103" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-28" target="W2paDP_m3vyoCNHAQNc3-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="600" as="sourcePoint" />
             <mxPoint x="760" y="430" as="targetPoint" />
@@ -369,20 +369,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-105" value="finalize_other_proof" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;shadow=0;fillColor=#CCFF99;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-105" value="finalize_other_proof" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;shadow=0;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="750" y="404" width="177" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-105" target="W2paDP_m3vyoCNHAQNc3-56">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-105" target="W2paDP_m3vyoCNHAQNc3-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="520" as="sourcePoint" />
             <mxPoint x="890" y="470" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-107" value="incrementally_verify_proof" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rotation=-90;fillColor=#B3FF66;" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-107" value="incrementally_verify_proof" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rotation=-90;fillColor=#B3FF66;" parent="1" vertex="1">
           <mxGeometry x="990" y="587" width="218" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-49" target="W2paDP_m3vyoCNHAQNc3-107">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-49" target="W2paDP_m3vyoCNHAQNc3-107" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1170" y="710" as="sourcePoint" />
             <mxPoint x="1120" y="720" as="targetPoint" />
@@ -394,26 +394,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-109" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0;entryDx=112;entryDy=89.7;entryPerimeter=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-56">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-109" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0;entryDx=112;entryDy=89.7;entryPerimeter=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1102" y="500" as="sourcePoint" />
             <mxPoint x="1030" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-110" value="lr：为(G.Affine * G.Affine) array" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-110" value="lr：为(G.Affine * G.Affine) array" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="817" y="536" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-111" value="z_1和z_2：均为Fp类型" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-111" value="z_1和z_2：均为Fp类型" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="817" y="585" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-112" value="challenge_polynomial_commitment" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-112" value="challenge_polynomial_commitment" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="817" y="681" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-113" value="delta" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-113" value="delta" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="822" y="636" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-118" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.959;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-49" target="W2paDP_m3vyoCNHAQNc3-110">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-118" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.959;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-49" target="W2paDP_m3vyoCNHAQNc3-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="600" as="sourcePoint" />
             <mxPoint x="800" y="550" as="targetPoint" />
@@ -423,7 +423,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-119" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-111">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-119" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="847" y="731" as="targetPoint" />
@@ -433,7 +433,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-120" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.97;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-49">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-120" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.97;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="630" as="sourcePoint" />
             <mxPoint x="820" y="649" as="targetPoint" />
@@ -443,7 +443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-121" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-121" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="640" as="sourcePoint" />
             <mxPoint x="816" y="700" as="targetPoint" />
@@ -453,23 +453,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-124" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="-38" width="240" height="30" as="geometry" />
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-124" value="challenge_polynomial_commitment" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="609.5" y="-38" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-125" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-124">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-125" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-124" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515.5" y="25.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-126" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-126" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="602.5" y="2" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-127" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-126">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-127" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515.5" y="25.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-128" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.385;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-32">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-128" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.385;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="260" as="sourcePoint" />
             <mxPoint x="570" y="210" as="targetPoint" />
@@ -479,19 +479,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-129" value="challenge_polynomial_commitments" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="2021.38" y="240" width="240" height="30" as="geometry" />
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-129" value="challenge_polynomial_commitment" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="2026.38" y="240" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-131" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-131" value="old_bulletproof_challenges" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="2030" y="182" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-133" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W2paDP_m3vyoCNHAQNc3-129">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-133" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2paDP_m3vyoCNHAQNc3-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="250" as="sourcePoint" />
             <mxPoint x="2185" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-136" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.892;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-51">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-136" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.892;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="890" as="sourcePoint" />
             <mxPoint x="1490" y="500" as="targetPoint" />
@@ -502,7 +502,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-137" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-53">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-137" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="832.04" y="545" as="sourcePoint" />
             <mxPoint x="1532.04" y="495" as="targetPoint" />
@@ -515,7 +515,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-138" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.71;exitY=1.089;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-112" target="W2paDP_m3vyoCNHAQNc3-129">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-138" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.71;exitY=1.089;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-112" target="W2paDP_m3vyoCNHAQNc3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="910" as="sourcePoint" />
             <mxPoint x="1962.6599999999994" y="625" as="targetPoint" />
@@ -529,7 +529,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-139" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-39">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-139" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="110" as="sourcePoint" />
             <mxPoint x="2150" y="180" as="targetPoint" />
@@ -546,7 +546,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-140" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-66">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-140" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-32" target="W2paDP_m3vyoCNHAQNc3-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="80" as="sourcePoint" />
             <mxPoint x="2345" y="-95" as="targetPoint" />
@@ -558,7 +558,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-141" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-14" target="W2paDP_m3vyoCNHAQNc3-78">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-141" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-14" target="W2paDP_m3vyoCNHAQNc3-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="650" as="sourcePoint" />
             <mxPoint x="2207.5" y="60" as="targetPoint" />
@@ -574,7 +574,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-143" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.442;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-124" target="W2paDP_m3vyoCNHAQNc3-56">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-143" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.442;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-124" target="W2paDP_m3vyoCNHAQNc3-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="-80" as="sourcePoint" />
             <mxPoint x="1060" y="-130" as="targetPoint" />
@@ -583,7 +583,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2paDP_m3vyoCNHAQNc3-144" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=112;entryDy=48.3;entryPerimeter=0;" edge="1" parent="1" source="W2paDP_m3vyoCNHAQNc3-126" target="W2paDP_m3vyoCNHAQNc3-56">
+        <mxCell id="W2paDP_m3vyoCNHAQNc3-144" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=112;entryDy=48.3;entryPerimeter=0;" parent="1" source="W2paDP_m3vyoCNHAQNc3-126" target="W2paDP_m3vyoCNHAQNc3-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="-310" as="sourcePoint" />
             <mxPoint x="1257.5" y="79.30000000000018" as="targetPoint" />
