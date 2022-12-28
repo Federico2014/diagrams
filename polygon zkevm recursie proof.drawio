@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T08:06:24.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="N-i3Is6yK-Tm1a63m6G0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T08:15:58.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ae8p16WhRF0F04SdlMM2" type="github">
   <diagram id="G29fxjJjs0hPYExiOqVX" name="第 1 页">
     <mxGraphModel dx="1426" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UaemOYfhT0YACzm22oCD-1" value="STARK 证明&lt;br&gt;（Goldilocks）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UaemOYfhT0YACzm22oCD-1" value="Batch STARK 证明&lt;br&gt;（Goldilocks）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="143" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UaemOYfhT0YACzm22oCD-2" value="Circom 验证电路&lt;br&gt;（Goldilocks）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
             <mxPoint x="687" y="174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UaemOYfhT0YACzm22oCD-8" value="STARK C12a 证明&lt;br&gt;(Goldilocks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UaemOYfhT0YACzm22oCD-8" value="STARK C12a(pi_b) &lt;br&gt;证明 (Goldilocks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UaemOYfhT0YACzm22oCD-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaemOYfhT0YACzm22oCD-5" target="UaemOYfhT0YACzm22oCD-8">
