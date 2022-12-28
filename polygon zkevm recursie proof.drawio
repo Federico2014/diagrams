@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T07:46:37.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="eT4ab2SbTWqgLfZHmjyd" type="github"><diagram id="zmrJ02qSoVLJhMwzzLDk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-28T08:06:24.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="N-i3Is6yK-Tm1a63m6G0" type="github">
+  <diagram id="G29fxjJjs0hPYExiOqVX" name="第 1 页">
+    <mxGraphModel dx="1426" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UaemOYfhT0YACzm22oCD-1" value="STARK 证明&lt;br&gt;（Goldilocks）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-2" value="Circom 验证电路&lt;br&gt;（Goldilocks）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaemOYfhT0YACzm22oCD-1" target="UaemOYfhT0YACzm22oCD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="273" as="sourcePoint" />
+            <mxPoint x="251" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-4" value="PIL2Circom&amp;nbsp;&lt;br&gt;(Goldilocks)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="124" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-5" value="C12a PIL 验证约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-6" value="R1cs2Plonk" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="143" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577" y="174" as="sourcePoint" />
+            <mxPoint x="687" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-8" value="STARK C12a 证明&lt;br&gt;(Goldilocks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="898" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaemOYfhT0YACzm22oCD-5" target="UaemOYfhT0YACzm22oCD-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.9999999999999" y="142.99999999999994" as="sourcePoint" />
+            <mxPoint x="910" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-10" value="STARK 证明" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="139" width="69" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-11" value="R1CS&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="147" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UaemOYfhT0YACzm22oCD-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391" y="172.56999999999994" as="sourcePoint" />
+            <mxPoint x="491" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-13" value="Circom 编译器" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="140" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UaemOYfhT0YACzm22oCD-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391" y="172.56999999999994" as="sourcePoint" />
+            <mxPoint x="491" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UaemOYfhT0YACzm22oCD-8" target="UaemOYfhT0YACzm22oCD-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="313" as="sourcePoint" />
+            <mxPoint x="617" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-16" value="PIL2Circom&amp;nbsp;&lt;br&gt;(Goldilocks)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="971" y="212" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="897" y="298" as="sourcePoint" />
+            <mxPoint x="801" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-18" value="R1CS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="273" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UaemOYfhT0YACzm22oCD-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="581" y="297" as="sourcePoint" />
+            <mxPoint x="571" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-20" value="R1cs2Plonk" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="611" y="266" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-21" value="recursive1 PIL &lt;br&gt;验证约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="264" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-22" value="Circom 编译器" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808.5" y="256" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-23" value="Circom 验证电路&lt;br&gt;(Goldilocks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="898" y="266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-24" value="recursive 1(pi_segment) &lt;br&gt;证明&amp;nbsp; (Goldilocks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="264" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UaemOYfhT0YACzm22oCD-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="451" y="293.5" as="sourcePoint" />
+            <mxPoint x="360" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaemOYfhT0YACzm22oCD-26" value="STARK 证明" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="256" width="69" height="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
